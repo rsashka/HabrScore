@@ -1,6 +1,7 @@
 # HabrScore
 
 Исходники прошивки на MicroPython для устройства визуализации рейтинга пользователя Хабра и оценки его последней статьи
+Описание работы устройства в статье на Хабре https://habr.com/ru/post/723334/
 
 ![](https://habrastorage.org/webt/rh/gr/jb/rhgrjbyzq6ic1ccvhpnxsmgi_zm.gif)
 
