@@ -204,7 +204,7 @@ while(True):
         status('Sync local time ...')
         try:
             print("Local time before synchronization：%s" %str(time.localtime()))
-            ntptime.time()
+            ntptime.settime()
             print("Local time after synchronization：%s" %str(time.localtime()))
             sync_done = True
         except:
